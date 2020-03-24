@@ -1,0 +1,73 @@
+Lib	Project	Treatment	MillionCell	LungWeight
+L1-1	PharI	w15 untreated	168.3259622	0.461
+L1-2	PharI	w15 untreated	209.8379138	0.632
+L1-3	PharI	w15 untreated	288.6430117	0.666
+L1-4	PharI	w15 untreated	206.0188786	0.617
+L1-5	PharI	w15 untreated	305.9551538	0.765
+L1-6	PharI	w15 untreated	69.11523429	0.268
+L1-7	PharI	w15 untreated	578.9255349	0.667
+L1-8	PharI	w15 untreated	76.55830478	0.263
+L1-9	PharI	w18 untreated	305.5859081	0.843
+L1-10	PharI	w18 untreated	206.6559863	0.67
+L1-11	PharI	w18 untreated	378.7681481	0.855
+L1-12	PharI	w18 untreated	128.2144753	0.484
+L1-13	PharI	w18 untreated	152.6254185	0.506
+L1-14	PharI	w18 untreated	13.99873699	0.201
+L1-15	PharI	w18 untreated	224.249499	0.683
+L1-16	PharI	w18 untreated	246.2958951	0.905
+L1-17	PharI	Palbociclib	250.9258394	0.848
+L1-18	PharI	Palbociclib	546.3542956	0.928
+L1-19	PharI	Palbociclib	201.9210369	0.773
+L1-20	PharI	Palbociclib	165.4917355	0.686
+L1-21	PharI	Palbociclib	9.69641007	0.321
+L1-22	PharI	Palbociclib	112.9260443	0.337
+L2-1	PharI	Paclitaxel	212.2281175	0.638
+L2-2	PharI	Paclitaxel	255.8775147	0.716
+L2-3	PharI	Paclitaxel	251.7978788	1.195
+L2-4	PharI	Paclitaxel	298.1054099	0.992
+L2-5	PharI	Paclitaxel	183.5496272	0.53
+L2-6	PharI	Trametinib	225.8231533	0.608
+L2-7	PharI	Trametinib	50.93119348	0.276
+L2-8	PharI	Trametinib	194.6640376	0.601
+L2-9	PharI	Trametinib	98.39091908	0.359
+L2-10	PharI	Trametinib	30.88256732	0.248
+L2-11	PharI	Trametinib	47.72486277	0.35
+L2-12	PharI	Trametinib	53.25922305	0.193
+L2-13	PharI	Paclitaxel + Trametinib	320.9759323	0.753
+L2-14	PharI	Paclitaxel + Trametinib	171.5977574	0.589
+L2-15	PharI	Paclitaxel + Trametinib	56.64911465	0.343
+L2-16	PharI	Paclitaxel + Trametinib	213.2781276	0.64
+L2-17	PharI	Paclitaxel + Trametinib	11.41795934	0.174
+L2-18	PharI	Paclitaxel + Trametinib	5.880613467	0.258
+L2-19	PharI	Paclitaxel + Trametinib	108.6380684	0.345
+L2-20	PharI	Paclitaxel + Trametinib	181.7028638	0.466
+L2-21	PharI	Everolimus	283.3225226	0.793
+L2-22	PharI	Everolimus	213.2072844	0.829
+L2-23	PharI	Everolimus	330.6109233	0.752
+L2-24	PharI	Everolimus	251.5478018	1.116
+L2-25	PharI	Everolimus	171.8661136	0.623
+L5-1	PharI	Paclitaxel	218.5857065	0.638
+L5-2	PharI	Paclitaxel	268.8575113	0.716
+L5-3	PharI	Paclitaxel	280.1837234	1.195
+L5-4	PharI	Paclitaxel	329.3108302	0.992
+L5-5	PharI	Paclitaxel	186.2299485	0.53
+L5-6	PharI	Paclitaxel + Carbo	260.9582268	0.745
+L5-7	PharI	Paclitaxel + Carbo	44.20129366	0.354
+L5-8	PharI	Paclitaxel + Carbo	189.2750871	0.763
+L5-9	PharI	Paclitaxel + Carbo	47.94889984	0.443
+L5-10	PharI	Paclitaxel + Carbo	489.3941075	1.008
+L5-11	PharI	Paclitaxel + Carbo	228.4101567	0.671
+L5-12	PharI	Paclitaxel + Carbo	10.92672414	0.224
+L5-13	PharI	Paclitaxel + Carbo	147.2299727	0.571
+L5-14	PharI	Paclitaxel + Trametinib + Carbo	9.455290409	0.222
+L5-15	PharI	Paclitaxel + Trametinib + Carbo	46.97342003	0.288
+L5-16	PharI	Paclitaxel + Trametinib + Carbo	64.43441962	0.31
+L5-17	PharI	Paclitaxel + Trametinib + Carbo	11.97521729	0.186
+L5-18	PharI	Paclitaxel + Trametinib + Carbo	7.946770197	0.246
+L5-19	PharI	Paclitaxel + Trametinib + Carbo	16.70376505	0.213
+L5-20	PharI	Phenformin	174.9094063	0.393
+L5-21	PharI	Phenformin	12.78227178	0.331
+L5-22	PharI	Phenformin	96.80722481	0.422
+L5-23	PharI	Phenformin	170.7292928	0.602
+L5-24	PharI	Phenformin	79.05446591	0.461
+L5-25	PharI	Phenformin	112.6566531	0.479

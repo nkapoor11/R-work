@@ -1,0 +1,45 @@
+Lib	Project	Treatment	MillionCell	LungWeight
+L3-1	PharII	w18 untreated KT	40.4582152	0.201
+L3-2	PharII	w18 untreated KT	103.8435727	0.297
+L3-3	PharII	w18 untreated KT	54.14008566	0.187
+L3-4	PharII	w18 untreated KT	81.42158059	0.235
+L3-5	PharII	T6: PTX/MEKi/Carbo KT	11.97610292	0.348
+L3-6	PharII	T6: PTX/MEKi/Carbo KT	28.53255924	0.217
+L3-7	PharII	T6: PTX/MEKi/Carbo KT	25.18367455	0.26
+L3-8	PharII	T6: PTX/MEKi/Carbo KT	22.31771933	0.253
+L3-9	PharII	T6: PTX/MEKi/Carbo KT	15.87841108	0.224
+L3-10	PharII	w18 untreated	33.90281911	0.319
+L3-11	PharII	w18 untreated	47.8692401	0.227
+L3-12	PharII	w18 untreated	55.36415664	0.243
+L3-13	PharII	w18 untreated	81.66814697	0.312
+L3-14	PharII	w18 untreated	80.77853079	0.251
+L3-15	PharII	w18 untreated	70.83568989	0.168
+L3-16	PharII	w18 untreated	16.28227797	0.092
+L3-17	PharII	w18 untreated	24.34172599	0.056
+L3-18	PharII	w18 untreated	10.00338804	0.036
+L3-19	PharII	w18 untreated	87.01355437	0.413
+L3-20	PharII	Palbociclib	83.90142263	0.331
+L3-21	PharII	Palbociclib	97.82448322	0.357
+L3-22	PharII	Palbociclib	5.875216311	0.339
+L3-23	PharII	Palbociclib	35.08696624	0.619
+L3-24	PharII	Palbociclib	70.67948447	0.477
+L3-25	PharII	Palbociclib	36.41536339	0.619
+L4-1	PharII	Trametinib	171.7076857	0.405
+L4-2	PharII	Trametinib	26.59914043	0.175
+L4-3	PharII	Trametinib	13.27015659	0.19
+L4-4	PharII	Trametinib	24.71311719	0.213
+L4-5	PharII	Trametinib	155.662174	0.573
+L4-6	PharII	Trametinib	34.23162902	0.251
+L4-7	PharII	Trametinib	18.06351761	0.22
+L4-8	PharII	Phenformin	23.37650965	0.242
+L4-9	PharII	Phenformin	19.55316189	0.276
+L4-10	PharII	Phenformin	74.49194985	0.776
+L4-11	PharII	Phenformin	209.1261981	0.526
+L4-12	PharII	Trametinib 6-week	212.7593166	0.599
+L4-13	PharII	Trametinib 6-week	176.8124003	1.301
+L4-14	PharII	Trametinib 6-week	97.71368104	1.301
+L4-15	PharII	Trametinib 6-week	125.3214352	0.505
+L4-16	PharII	Trametinib 6-week	297.7955298	0.977
+L4-17	PharII	Trametinib 6-week	389.9256734	0.673
+L4-18	PharII	Trametinib 6-week	0.895156408	0.251
+L4-19	PharII	Trametinib 6-week	46.33582354	0.323
